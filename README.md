@@ -1,5 +1,5 @@
 # Trafic-accidents
-Quick model for predicting the gravity of car accidents based on different features : circumstances, characteristics of passengers, road...
+Quick model that predicts the gravity of car accidents based on different features : circumstances, characteristics of passengers, road...
 
 Open data from 2018 provided by the French ministry of transport : [Link here](https://www.data.gouv.fr/fr/datasets/base-de-donnees-accidents-corporels-de-la-circulation/#)
 
