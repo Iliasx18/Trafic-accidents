@@ -5,9 +5,11 @@ Open data from 2018 provided by the French ministry of transport : [Link here](h
 
 Used python and scikit-learn library for the implementation of logistic regression and gradient boosting classifier, then evaluated the model using classic metrics (accuracy, precision, recall...) and AUC for ROC and precision-recall curves.
 
+For example, the results for the area under the precision-recall curve are :
 
 |                         | AUC (Train)    | AUC (Test)  |
 | ----------------------- |:--------------:|:-----------:| 
 | Mean                    | 0.84           | 0.45        |
 | Standard variation      | 0.11           |       0.05  | 
 
+Whereas the AUC score of a random classifier is around 16%
