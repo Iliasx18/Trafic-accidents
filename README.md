@@ -14,3 +14,7 @@ For example, the results for the area under the precision-recall curve are :
 | Standard deviation      | 0.11           |       0.05  | 
 
 Whereas the AUC score of a random classifier is around 16%
+
+For the ROC curve, we obtain an AUC score of around 0.76
+
+We also conclude that some of the most determining factors of the lethality of an accident are : road type, use of safety gear and agglomerations.
